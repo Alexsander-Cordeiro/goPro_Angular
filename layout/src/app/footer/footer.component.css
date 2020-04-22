@@ -1,4 +1,38 @@
+* {
+    font-family: 'Playfair Display', serif;
+}
+
 .page-footer {
     background-color: rgba(7, 5, 31, 0.829);
     color: white;
+}
+
+.social-network {
+    list-style: none;
+    display: inline;
+    padding: 0;
+}
+
+ul.social-network li {
+    display: inline;
+    margin: 0;
+    padding: 5px;
+}
+
+.faFacebook,
+.faYoutube,
+.faInstagram {
+    color: white;
+}
+
+.faFacebook:hover {
+    color: #3b5998;
+}
+
+.faYoutube:hover {
+    color: #0072b1;
+}
+
+.faInstagram:hover {
+    color: #C13584;
 }

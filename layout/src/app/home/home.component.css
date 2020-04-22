@@ -1,3 +1,7 @@
+* {
+    font-family: 'Playfair Display', serif;
+}
+
 .parallax {
     background-image: url(../../assets/img/gopro.jpg);
     min-height: 500px;
