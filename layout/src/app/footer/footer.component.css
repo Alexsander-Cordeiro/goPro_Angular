@@ -2,6 +2,10 @@
     font-family: 'Playfair Display', serif;
 }
 
+h5 {
+    font-size: 25px;
+}
+
 .page-footer {
     background-color: rgba(7, 5, 31, 0.829);
     color: white;
